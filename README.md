@@ -2,7 +2,7 @@
 
 ## Data Analyst
 
-Skilled in SQL, Power BI, Tableau, and Python.
+Skilled in SQL, Power BI, Tableau, Excel and Python.
 
 🔹 3 Data Analysis Projects  
 🔹 Internship Experience  
