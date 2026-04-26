@@ -128,7 +128,7 @@ lohit_sai = {
 <td width="50%" valign="top">
 
 ### Olist E-Commerce Analytics Platform
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lohitsai-analytics&repo=Olist-ECommerce-Analytics&theme=tokyonight&hide_border=true)](https://github.com/lohitsai-analytics/Olist-ECommerce-Analytics)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lohitsai-analytics&repo=Olist-ECommerce-Analytics&theme=tokyonight&hide_border=true)]([https://github.com/lohitsai-analytics/Olist-ECommerce-Analytics](https://github.com/lohitsai-analytics/Olist_E-Commerce))
 
 **Star schema · Advanced DAX · 3-page BI dashboard**
 
