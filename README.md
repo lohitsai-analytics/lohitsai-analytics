@@ -19,7 +19,7 @@
 ```python
 lohit_sai = {
     "name"      : "Naripelli Lohit Sai",
-    "location"  : "Hyderabad, Andhra Pradesh",
+    "location"  : "Anakapalle, Andhra Pradesh(ready to relocate)",
     "education" : "B.Tech — Computer Science (2025)",
     "email"     : "sailohit52@gmail.com",
     "phone"     : "+91 8074683378",
